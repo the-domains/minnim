@@ -1,0 +1,14 @@
+layout_spectrum: 0.07385071623139083
+typography_spectrum: 0.40929717919789255
+color:
+  brandStrength: 0.45589336357079446
+  lightness: 0.7523455384653062
+  saturation: 0.7181661310605705
+  rhythmicContrast: 0.5399553515017033
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: minnim

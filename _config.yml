@@ -1,14 +1,51 @@
-layout_spectrum: 0.196892942301929
-typography_spectrum: 0.021874478785321116
+typography_spectrum: 0.3645482002101875
 color:
-  brandStrength: 0.2953632464632392
-  lightness: 0.1506694001145661
-  saturation: 0.5763241092208773
-  rhythmicContrast: 0.8963971098419279
+  saturation: 0.8940045286284409
+  brandStrength: 0.5284576359627271
+  lightness: 0.19159747518903328
   brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
+    - '#703030'
+    - '#2F343B'
+    - '#7E827A'
+    - '#E3CDA4'
+    - '#C77966'
+  rhythmicContrast: 0.9873910207501474
+github: true
+opengraph:
+  appId: minnim@me.com
+layout_spectrum: 0.0957041527136312
+author:
+  name: ''
+  email: mincheonki@gmail.com
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0be2cec6-a545-48ef-bc46-1dc3e6052f01.png
 name: minnim
+navigation:
+  - name: About
+    url: 'http://thegrid.ai/minnim_about'
+    type: external
+  - name: Fournines
+    url: 'http://post9999.com/'
+    type: external
+  - name: About
+    id: fb1ef3a7-2a01-4665-897e-34c36c300d0c
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5afe7877-9417-460b-99c6-4c6fd5a26c6e.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: minnim.Blog
+content: []
+description: Husband.Father.VFXsupervisor.Photograph.Toon.Illust.Design.Fournines.
+purpose: []

@@ -1,19 +1,19 @@
-typography_spectrum: 0.3645482002101875
+layout_spectrum: 0.04222677844207697
+typography_spectrum: 0.9733352850235556
 color:
-  saturation: 0.8940045286284409
-  brandStrength: 0.5284576359627271
-  lightness: 0.19159747518903328
+  saturation: 0.3761616443701568
+  brandStrength: 0.10839228359383006
+  lightness: 0.7758473317404416
   brandColors:
     - '#703030'
     - '#2F343B'
     - '#7E827A'
     - '#E3CDA4'
     - '#C77966'
-  rhythmicContrast: 0.9873910207501474
+  rhythmicContrast: 0.2868339367470898
 github: true
 opengraph:
   appId: minnim@me.com
-layout_spectrum: 0.0957041527136312
 author:
   name: ''
   email: mincheonki@gmail.com
